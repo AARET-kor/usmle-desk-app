@@ -1,0 +1,1 @@
+var e=`/usmle-desk-app/assets/pdf.worker.min-yatZIOMy.mjs`;export{e as default};
